@@ -1,3 +1,4 @@
+#Predict Future Values Now we can use the information we have gathered to predict future values.Example: Let us try to predict the speed of a 10 years old car.#
 import matplotlib.pyplot as plt
 from scipy import stats
 
